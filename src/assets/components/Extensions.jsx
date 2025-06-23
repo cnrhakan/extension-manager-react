@@ -36,7 +36,7 @@ function Extensions({ filter }) {
         return (
           <div
             key={item.name}
-            className="h-[200px] shadow p-4 rounded-2xl bg-neutral-50 dark:bg-neutral-800 flex flex-col gap-12"
+            className="min-h-[200px] shadow p-4 rounded-2xl bg-neutral-50 dark:bg-neutral-800 flex flex-col justify-between gap-12"
           >
             <div className="flex gap-5 items-start">
               <CardLogo logo={item.logo} />
