@@ -1,12 +1,32 @@
-# React + Vite
+# 🧩 React Extension Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight and modern **extension manager** built with **React** and styled using **Tailwind CSS**.  
+It helps users organize, enable, and disable browser extensions easily through a user-friendly interface.
 
-Currently, two official plugins are available:
+## 🎯 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application allows users to view and manage a list of browser extensions in a simulated environment.  
+It showcases dynamic state management, component-based architecture, and interactive UI elements built with modern React and Tailwind CSS.
 
-## Expanding the ESLint configuration
+📝 **This project is a solution to a challenge from [Frontend Mentor](https://www.frontendmentor.io/).**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Features
+
+- 📦 **Extension List**: Displays all installed extensions with key info  
+- ✅ **Enable/Disable Toggle**: Switch extensions on/off with a click  
+- 🔍 **Filter**: Quickly find extensions by type  
+- 🧼 **Clean UI**: Responsive and minimal design with Tailwind CSS  
+
+## 🧪 Technologies Used
+
+- **React**  
+- **Tailwind CSS**
+- 
+## 🔗 Live Demo
+
+Try the app live here:  
+👉 [Live Demo](https://extension-manager-react.netlify.app/)
+
+## 🌐 Contact
+
+[LinkedIn](https://www.linkedin.com/in/hakan-cinar/)
